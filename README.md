@@ -1,5 +1,5 @@
 # AndroidAudioMonitor
-Simple app for testing android api
+Simple app for testing android api's audio functions
 
 Functions:
 - Allows for changing volume setting for each of android's audio streams
